@@ -1,6 +1,6 @@
 /** @format */
 
-const authorization = require("../../middlewares/authorization");
+const { authorization } = require("../../middlewares/authorization");
 const Product = require("../../models").Product;
 const Variant = require("../../models").Variant;
 
