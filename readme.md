@@ -550,7 +550,7 @@ content:
 }
 ```
 
-- **/products**
+- **/variants**
 
 | method   | headers           | params          | body |
 | -------- | ----------------- | --------------- | ---- |
